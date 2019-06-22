@@ -1,0 +1,14 @@
+doctype html
+html
+  head
+    meta(charset="UTF-8")
+    meta(name=viewport content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    link(href="style.css" rel="stylesheet" crossorigin="anonymous" inline)
+    title=title
+  body
+    div.page-text
+      h1=title
+      hr(style={background: colors.hrbg})
+      !=renderedContent
+    div.page-image(style={background: colors.sidebg})
