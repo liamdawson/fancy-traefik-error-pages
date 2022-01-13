@@ -10,7 +10,7 @@
     "htmlclean": "^3.0.8",
     "inline-source": "^6.2.0",
     "jstransformer-markdown-it": "^2.1.0",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "pug": "^3.0.1",
     "purgecss": "^1.3.0"
   },
